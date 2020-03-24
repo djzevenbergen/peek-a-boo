@@ -10,3 +10,13 @@ text-decoration: underline;
 #initially-showing {
     display: none;
 }
+
+.night-mode {
+    color: white;
+    background-color: black;
+}
+
+.highlight {
+    background-color: yellow;
+    border: solid 3px purple;
+}
